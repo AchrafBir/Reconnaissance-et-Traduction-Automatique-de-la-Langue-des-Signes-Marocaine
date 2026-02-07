@@ -1,0 +1,11 @@
+# Large/binary artifacts
+*.h5
+*.pdf
+*.docx
+
+# Office lock/temp files
+.~lock.*
+*.tmp
+
+# Optional: HTML exports
+*.md.html
